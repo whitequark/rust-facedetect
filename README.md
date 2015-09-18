@@ -10,6 +10,8 @@ Running
 
     cargo run
 
+Use `Esc` to quit.
+
 License
 -------
 
