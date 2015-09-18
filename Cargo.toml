@@ -1,0 +1,7 @@
+[package]
+name = "facedetect"
+version = "0.1.0"
+authors = ["whitequark <whitequark@whitequark.org>"]
+
+[dependencies]
+opencv = { git = "git://github.com/whitequark/opencv-rust" }
